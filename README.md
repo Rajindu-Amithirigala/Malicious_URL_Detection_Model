@@ -187,8 +187,6 @@ The dataset was curated from five sources:
 | PhishTank | Additional phishing URLs |
 | PhishStorm | Additional phishing URLs |
 
-The dataset file (`malicious_phish.csv`) is **not included** in this repository due to size. Download it directly from Kaggle and place it in the project root before running.
-
 ---
 
 ## Credits & Citations
